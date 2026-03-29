@@ -499,14 +499,11 @@ The system treats **clinician inaction** as a measurable, detectable clinical ev
 
 ## 👥 Team
 
+ChainOfThought
+
 Built for **ET GenAI Hackathon** — demonstrating that AI in healthcare must go beyond prediction toward **accountability**.
 
 ---
-
-## 📄 License
-
-MIT License — See `LICENSE` for details.
-
 ---
 
 <div align="center">
