@@ -72,7 +72,7 @@ Traditional Sepsis Alerting Systems (SAS) have focused heavily on **prediction a
 
 ---
 
-## 🧠 3 - SYSTEM INTELLIGENCE
+## 🧠 3 _ SYSTEM INTELLIGENCE
 
 Guardian AI utilizes a **Hybrid Intelligence Architecture** that combines Machine Learning with Clinical Rule Engines and Large Language Models.
 
