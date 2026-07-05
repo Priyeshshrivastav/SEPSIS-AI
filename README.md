@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Motivation
+##💡Motivation
 
 Sepsis is a **life-threatening medical emergency** caused by the body's extreme response to infection. It is one of the leading causes of death in intensive care units globally, killing an estimated **11 million people every year** — roughly 20% of all global deaths.
 
@@ -19,7 +19,7 @@ This project was also motivated by the **SEP-1 Quality Measure** enforced by the
 
 ---
 
-## 🎯 Need
+## Need
 
 ### Why Current Systems Are Not Enough
 
