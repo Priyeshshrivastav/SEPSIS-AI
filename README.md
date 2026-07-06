@@ -1,8 +1,6 @@
- 🛡️ Guardian AI: Real-Time Sepsis Monitoring & Escalation Intelligence
+🛡️ Guardian AI: Real-Time Sepsis Monitoring & Escalation Intelligence
 
 > **Hackathon Project** — An autonomous, multi-agent Clinical Decision Support (CDS) system that doesn't just predict sepsis risk — it watches for **delayed treatment** and triggers escalation when clinicians fail to act in time.
-
----
 
 ##💡Motivation
 
